@@ -9,5 +9,8 @@ Documentation website generator built with React. Monorepo with core packages an
 - Themes: `packages/docusaurus-theme-*/`
 - Example site: `website/`
 
+# Implementation
+![Implementation](./implementation.png)
+
 ## Tech Stack
 TypeScript, React 18+, Webpack 5, MDX, Jest
