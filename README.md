@@ -1,6 +1,4 @@
 # Docusaurus
-
-## Project Overview
 Documentation website generator built with React. Monorepo with core packages and example site.
 
 ## Architecture
