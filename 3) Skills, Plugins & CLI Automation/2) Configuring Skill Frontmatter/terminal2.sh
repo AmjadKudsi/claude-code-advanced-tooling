@@ -217,7 +217,10 @@ Launching Claude Code...
 ────────────────────────────────────────────────────────────────────────────────────────────────────────────
 ❯                                                                                                           
 ────────────────────────────────────────────────────────────────────────────────────────────────────────────
-  ? for shortcuts                                                                                           
+  ? for shortcuts   
+  
+New Terminal:
+                                                                                        
 /usercode/FILESYSTEM$ bash /usercode/FILESYSTEM/.codesignal/setup.sh -a                                     
 Setting up environment…                                                                                     
 Setting up environment…                                                                                     
